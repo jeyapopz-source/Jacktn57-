@@ -1,0 +1,6 @@
+{
+  "name": "Jack TN57",
+  "description": "Smart vehicle and driver companion for TN-57 Dindigul: RTO services, vehicle records, roadside toolkit, fuel log, and emergency helpline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
